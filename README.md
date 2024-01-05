@@ -2,6 +2,10 @@
 
 A simple web application built using Node.js, Express, and MongoDB that allows users to manage their contact numbers by adding and deleting contacts.
 
+## Screenshot
+
+![Contact List App Screenshot](https://github.com/krishnashah122/Contact-List-App/assets/64410232/f668497a-4aaf-4c7d-a1a0-c23401964ebc)
+
 ## Features
 
 - User-friendly interface for adding and deleting contact numbers.
